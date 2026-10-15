@@ -1,0 +1,12 @@
+# The guard's pattern list is deliberately not in this repository:
+# ~/.config/opsec/denylist.txt, overridable via OPSEC_DENYLIST.
+repos:
+  - repo: local
+    hooks:
+      - id: opsec-denylist
+        name: opsec — no employer identity in the commit
+        entry: .opsec/guard.sh
+        language: script
+        types: [file]
+        always_run: true
+        require_serial: true

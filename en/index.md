@@ -1,6 +1,7 @@
 ---
 title: Learning to think
 description: A personal wiki and journal — learning to think and to understand.
+cssclasses: [home]
 ---
 
 …and to understand.

@@ -1,8 +1,9 @@
 ---
 title: Learning to think
 description: A personal wiki and journal — learning to think and to understand.
-cssclasses: [home]
-language_note: "This site is bilingual. As of late 2026 I write in Russian, an LLM helps me translate into English, and I proofread every translation. I expect to move to writing mostly in English over the years, so both languages are here to stay. A text without a translation opens in Russian."
+cssclasses:
+  - home
+language_note: The site is bilingual. I think and write in Russian, but that may change sometime in the future. I try to duplicate the materials in two languages whenever possible.
 ---
 
 I'm Alexander. Online I'm better known as *sanchpet*. Right now I'm busy learning to [[myshlenie|think]].

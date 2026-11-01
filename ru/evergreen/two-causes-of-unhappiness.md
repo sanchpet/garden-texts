@@ -8,6 +8,7 @@ channels: [sanchpetblog, mim-club]
 link:
   - https://t.me/sanchpetblog/350
   - https://systemsworld.club/t/dve-prichiny-neschastya/37861
+draft: true
 ---
 На текущий момент мне известны и понятны две причины несчастья.
 

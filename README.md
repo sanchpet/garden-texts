@@ -6,4 +6,5 @@ The garage door is open: texts are visible here from their first edit, before th
 
 - `posts/` — dated texts
 - `evergreen/` — evergreen notes, revised over time
+- `library/` — the book catalogue: a card per book, and the page that shelves them
 - `index.md` — the home page

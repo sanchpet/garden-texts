@@ -7,3 +7,5 @@ language_note: The site is bilingual. I think and write in Russian, but that may
 ---
 
 I'm Aleksandr. Online I'm better known as *sanchpet*. Right now I focus on learning to [[myshlenie|think]].
+
+I love [[en/library/index|reading]].

@@ -21,7 +21,10 @@ views:
   - type: radar
     name: Радар
     sectors:
-      cluster: Кластер
+      techniques: Техники
+      platforms: Платформы
+      languages: Языки и фреймворки
+      tools: Инструменты
   - type: table
     name: Список
     order:

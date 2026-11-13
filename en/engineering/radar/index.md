@@ -16,6 +16,9 @@ views:
   - type: radar
     name: Radar
     sectors:
-      cluster: Cluster
+      techniques: Techniques
+      platforms: Platforms
+      languages: Languages & Frameworks
+      tools: Tools
     fallbackNote: This entry exists only in Russian so far. I think and write in Russian first and translate when I can.
 ```

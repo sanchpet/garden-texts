@@ -2,11 +2,12 @@
 type: post
 aliases: ["За секунду"]
 domain: prose
-channels: [sanchpetblog]
+channels: [lytdybr]
 drafts: []
 created: 2026-11-15
 cover: "[[za-sekundu-cover.jpg]]"
 published: 2026-11-15
+link: https://t.me/sanchpetlytdybr/335
 ---
 
 ```meta-bind-button

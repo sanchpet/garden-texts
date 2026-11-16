@@ -8,4 +8,4 @@ description: Что я осваиваю, зачем и из какого вре�
 
 Черновик, редакция 0.1. Картинка открывается в полный размер по нажатию.
 
-[![Учебный план 2027: четыре ветви, ступени и окна](../media/study-plan.svg)](../media/study-plan.svg)
+<a href="../media/study-plan.svg" data-no-popover="true"><img src="../media/study-plan.svg" alt="Учебный план 2027: четыре ветви, ступени и окна"></a>

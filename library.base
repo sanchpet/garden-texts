@@ -3,7 +3,7 @@ filters:
     - type == "book"
     - file.inFolder("50-garden/ru/library")
 formulas:
-  score: 'if(demand, 4, 0) + if(want, want, 2) * 2 + if(chunks, 1, 0)'
+  score: if(status == "done", 0, if(demand, 4, 0) + if(want, want, 2) * 2 + if(chunks, 1, 0))
 properties:
   formula.score:
     displayName: Счёт
@@ -32,16 +32,19 @@ views:
     name: Список
     order:
       - file.name
+      - formula.score
+      - status
+      - want
+      - demand
+      - chunks
+      - plan
       - author
       - year
       - category
-      - status
-      - plan
-      - queue
     sort:
-      - property: status
-        direction: ASC
-      - property: queue
+      - property: formula.score
+        direction: DESC
+      - property: file.name
         direction: ASC
   - type: table
     name: Что читать дальше

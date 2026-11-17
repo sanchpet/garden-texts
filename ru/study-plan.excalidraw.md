@@ -27,8 +27,9 @@ Longevity — как устроено тело, спорт, долгая фун�
 распределённые
 системы ^5OnvNJB1
 
-курс Cambridge · 1 из 8
-глав ^fI779Na9
+курс Cambridge · гл. 1
+прочитана, пишу
+заготовку ^fI779Na9
 
 утро ^d38EUfpo
 
@@ -141,9 +142,8 @@ Outlive, затем Lifespan ^3sPs2b2w
 
 Математика ^JhCc4gIp
 
-в очереди за
-воспроизведением · курс с
-задачами ^lvBPXipk
+Савов · в очереди за
+воспроизведением ^lvBPXipk
 
 ? ^ALPnWH97
 
@@ -173,8 +173,8 @@ Deep Work · Каспаров ^6ygdPDlX
 
 Очередь с полки ^XAfhF7Oy
 
-19 книг · порядок по трём
-признакам ^v9IOhuwS
+13 книг для досуга · порядок по
+трём признакам ^v9IOhuwS
 
 чтение ^GiGtUchF
 
@@ -1044,7 +1044,7 @@ Deep Work · Каспаров ^6ygdPDlX
    "id": "5OnvNJB1",
    "type": "text",
    "x": 61.20804901123047,
-   "y": 448.8,
+   "y": 440.6,
    "width": 123.98390197753906,
    "height": 60,
    "angle": 0,
@@ -1084,9 +1084,9 @@ Deep Work · Каспаров ^6ygdPDlX
    "id": "fI779Na9",
    "type": "text",
    "x": 50.413081359863284,
-   "y": 512.8,
+   "y": 504.6,
    "width": 145.57383728027344,
-   "height": 32.5,
+   "height": 48.75,
    "angle": 0,
    "strokeColor": "#5c5f66",
    "backgroundColor": "transparent",
@@ -1108,9 +1108,9 @@ Deep Work · Каспаров ^6ygdPDlX
    "updated": 1794930631577,
    "link": null,
    "locked": false,
-   "text": "курс Cambridge · 1 из 8\nглав",
-   "originalText": "курс Cambridge · 1 из 8\nглав",
-   "rawText": "курс Cambridge · 1 из 8\nглав",
+   "text": "курс Cambridge · гл. 1\nпрочитана, пишу\nзаготовку",
+   "originalText": "курс Cambridge · гл. 1\nпрочитана, пишу\nзаготовку",
+   "rawText": "курс Cambridge · гл. 1\nпрочитана, пишу\nзаготовку",
    "fontSize": 13,
    "fontFamily": 5,
    "textAlign": "center",
@@ -3903,7 +3903,7 @@ Deep Work · Каспаров ^6ygdPDlX
    "id": "JhCc4gIp",
    "type": "text",
    "x": 733.5760559082032,
-   "y": 298.6,
+   "y": 306.8,
    "width": 89.64788818359375,
    "height": 20,
    "angle": 0,
@@ -3943,9 +3943,9 @@ Deep Work · Каспаров ^6ygdPDlX
    "id": "lvBPXipk",
    "type": "text",
    "x": 695.9086059570313,
-   "y": 322.6,
+   "y": 330.8,
    "width": 164.9827880859375,
-   "height": 48.75,
+   "height": 32.5,
    "angle": 0,
    "strokeColor": "#5c5f66",
    "backgroundColor": "transparent",
@@ -3967,9 +3967,9 @@ Deep Work · Каспаров ^6ygdPDlX
    "updated": 1794930631577,
    "link": null,
    "locked": false,
-   "text": "в очереди за\nвоспроизведением · курс с\nзадачами",
-   "originalText": "в очереди за\nвоспроизведением · курс с\nзадачами",
-   "rawText": "в очереди за\nвоспроизведением · курс с\nзадачами",
+   "text": "Савов · в очереди за\nвоспроизведением",
+   "originalText": "Савов · в очереди за\nвоспроизведением",
+   "rawText": "Савов · в очереди за\nвоспроизведением",
    "fontSize": 13,
    "fontFamily": 5,
    "textAlign": "center",
@@ -4763,9 +4763,9 @@ Deep Work · Каспаров ^6ygdPDlX
    "updated": 1794934505604,
    "link": null,
    "locked": false,
-   "text": "19 книг · порядок по трём\nпризнакам",
-   "originalText": "19 книг · порядок по трём\nпризнакам",
-   "rawText": "19 книг · порядок по трём\nпризнакам",
+   "text": "13 книг для досуга · порядок по\nтрём признакам",
+   "originalText": "13 книг для досуга · порядок по\nтрём признакам",
+   "rawText": "13 книг для досуга · порядок по\nтрём признакам",
    "fontSize": 13,
    "fontFamily": 5,
    "textAlign": "center",

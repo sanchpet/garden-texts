@@ -10,6 +10,9 @@ category: тело и здоровье
 status: later
 plan: ступень
 queue:
+want:
+demand: true
+chunks: false
 cover: "[[attia-outlive.jpg]]"
 description: "Долголетие как инженерная задача — четыре главные болезни старения и что делать с ними за десятилетия до диагноза."
 created: 2026-11-17

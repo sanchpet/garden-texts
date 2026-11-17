@@ -10,6 +10,9 @@ category: работа и внимание
 status: later
 plan: досуг
 queue:
+want:
+demand: false
+chunks: true
 cover: "[[newport-so-good-they-cant-ignore-you.jpg]]"
 description: "Довод против совета «следуй за страстью»: любимая работа вырастает из редкого мастерства, а не предшествует ему."
 created: 2026-11-17

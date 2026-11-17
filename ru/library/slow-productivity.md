@@ -10,6 +10,9 @@ category: работа и внимание
 status: later
 plan: практика
 queue:
+want:
+demand: false
+chunks: true
 cover: "[[newport-slow-productivity.jpg]]"
 description: "Продуктивность умственного труда без перегрузки: делать меньше дел, работать в естественном темпе, держаться качества."
 created: 2026-11-17

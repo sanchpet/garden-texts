@@ -9,6 +9,10 @@ year: 2015
 category: экономика
 status: done
 plan: досуг
+queue:
+want:
+demand: false
+chunks: false
 cover: "[[thaler-misbehaving.jpg]]"
 description: Как складывалась поведенческая экономика — история спора с моделью рационального агента, рассказанная одним из её основателей.
 created: 2026-11-13

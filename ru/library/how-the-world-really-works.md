@@ -10,6 +10,9 @@ category: наука и техника
 status: later
 plan: досуг
 queue:
+want:
+demand: false
+chunks: false
 cover: "[[smil-how-the-world-really-works.jpg]]"
 description: Семь материальных оснований современной цивилизации — энергия, пища, материалы, глобализация, риски, среда, будущее — в числах, а не в мнениях.
 created: 2026-11-17

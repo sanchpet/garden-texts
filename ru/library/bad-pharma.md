@@ -10,6 +10,9 @@ category: тело и здоровье
 status: later
 plan: досуг
 queue:
+want:
+demand: false
+chunks: false
 cover: "[[goldacre-bad-pharma.jpg]]"
 description: "Как фармацевтические компании искажают данные испытаний и чем это оборачивается для врачей и пациентов."
 created: 2026-11-17

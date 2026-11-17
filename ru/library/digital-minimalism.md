@@ -10,6 +10,9 @@ category: работа и внимание
 status: done
 plan: досуг
 queue:
+want:
+demand: false
+chunks: true
 cover: "[[newport-digital-minimalism.jpg]]"
 description: "Философия пользования технологиями: оставить немногое, что служит ценностям, и спокойно обойтись без остального."
 created: 2026-11-17

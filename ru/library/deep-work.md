@@ -10,6 +10,9 @@ category: работа и внимание
 status: later
 plan: практика
 queue:
+want:
+demand: true
+chunks: true
 cover: "[[newport-deep-work.jpg]]"
 description: Способность долго работать без отвлечений как редкий и ценный навык — и правила, по которым её выстраивают.
 created: 2026-11-17

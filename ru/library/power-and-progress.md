@@ -10,6 +10,9 @@ category: экономика
 status: later
 plan: досуг
 queue:
+want:
+demand: false
+chunks: false
 cover: "[[acemoglu-power-and-progress.jpg]]"
 description: "Тысяча лет технологий и благосостояния — кому достаются плоды прогресса и от чего это зависит."
 created: 2026-11-17

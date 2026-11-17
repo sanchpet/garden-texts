@@ -10,6 +10,9 @@ category: наука и техника
 status: later
 plan: досуг
 queue:
+want:
+demand: false
+chunks: true
 cover: "[[north-how-to-invent-everything.jpg]]"
 description: "Руководство для путешественника, застрявшего в прошлом, — как заново получить земледелие, металл, письмо и всё остальное."
 created: 2026-11-17

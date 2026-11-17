@@ -10,6 +10,9 @@ category: наука и техника
 status: later
 plan: досуг
 queue:
+want:
+demand: false
+chunks: true
 cover: "[[munroe-what-if.jpg]]"
 description: "Серьёзные научные ответы на абсурдные гипотетические вопросы — от автора xkcd."
 created: 2026-11-17

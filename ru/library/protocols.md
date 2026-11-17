@@ -10,6 +10,9 @@ category: тело и здоровье
 status: later
 plan: практика
 queue:
+want:
+demand: true
+chunks: true
 cover: "[[huberman-protocols.jpg]]"
 description: "Руководство нейробиолога по телу — протоколы сна, внимания, движения и восстановления, выведенные из лабораторных данных."
 created: 2026-11-17

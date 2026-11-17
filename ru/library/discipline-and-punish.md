@@ -10,6 +10,9 @@ category: философия
 status: later
 plan: досуг
 queue:
+want:
+demand: false
+chunks: false
 cover: "[[foucault-discipline-and-punish.jpg]]"
 description: "История перехода от публичной казни к тюрьме, прочитанная как история власти — дисциплина тела, надзор, паноптикум."
 created: 2026-11-17

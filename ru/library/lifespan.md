@@ -10,6 +10,9 @@ category: тело и здоровье
 status: later
 plan: ступень
 queue:
+want:
+demand: false
+chunks: false
 cover: "[[sinclair-lifespan.jpg]]"
 description: "Старение как болезнь, у которой есть общая причина, — информационная теория старения и то, что из неё следует для продления жизни."
 created: 2026-11-17

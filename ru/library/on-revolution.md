@@ -10,6 +10,9 @@ category: философия
 status: later
 plan: досуг
 queue:
+want:
+demand: false
+chunks: false
 cover: "[[arendt-on-revolution.jpg]]"
 description: "Сравнение американской и французской революций — почему одна учредила свободу, а другая утонула в социальном вопросе."
 created: 2026-11-17

@@ -10,6 +10,9 @@ category: работа и внимание
 status: later
 plan: практика
 queue:
+want:
+demand: false
+chunks: true
 cover: "[[newport-a-world-without-email.jpg]]"
 description: Почему работа через непрерывную переписку дробит внимание и чем её заменяют на уровне устройства процессов.
 created: 2026-11-17

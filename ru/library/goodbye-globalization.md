@@ -10,6 +10,9 @@ category: экономика
 status: later
 plan: досуг
 queue:
+want:
+demand: false
+chunks: false
 cover: "[[braw-goodbye-globalization.jpg]]"
 description: "Как мир, сшитый торговлей после холодной войны, снова делится на блоки — история подъёма и отката глобализации."
 created: 2026-11-17

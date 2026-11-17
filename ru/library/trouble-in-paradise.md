@@ -10,6 +10,9 @@ category: философия
 status: later
 plan: досуг
 queue:
+want:
+demand: false
+chunks: false
 cover: "[[zizek-trouble-in-paradise.jpg]]"
 description: "Разбор глобального капитализма после кризиса 2008 года — от «конца истории» к вопросу о том, чем может быть его конец."
 created: 2026-11-17

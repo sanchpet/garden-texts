@@ -2,7 +2,17 @@ filters:
   and:
     - type == "book"
     - file.inFolder("50-garden/ru/library")
+formulas:
+  score: 'if(demand, 4, 0) + if(want, want, 2) * 2 + if(chunks, 1, 0)'
 properties:
+  formula.score:
+    displayName: Счёт
+  want:
+    displayName: Хочется
+  demand:
+    displayName: Спрос сейчас
+  chunks:
+    displayName: Членится
   file.name:
     displayName: Книга
   author:
@@ -34,19 +44,38 @@ views:
       - property: queue
         direction: ASC
   - type: table
+    name: Что читать дальше
+    filters:
+      and:
+        - status != "done"
+    order:
+      - file.name
+      - formula.score
+      - want
+      - demand
+      - chunks
+      - plan
+      - author
+    sort:
+      - property: formula.score
+        direction: DESC
+    limit: 3
+  - type: table
     name: Очередь
     filters:
       and:
         - status != "done"
     order:
-      - queue
       - file.name
-      - author
+      - formula.score
+      - want
+      - demand
+      - chunks
       - plan
-      - status
+      - author
     sort:
-      - property: queue
-        direction: ASC
+      - property: formula.score
+        direction: DESC
   - type: cards
     name: Обложки
     order:

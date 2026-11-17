@@ -10,6 +10,9 @@ category: математика и физика
 status: later
 plan: ступень
 queue:
+want:
+demand: false
+chunks: true
 cover: "[[savov-no-bullshit-math-physics.jpg]]"
 description: "Школьная математика, механика и анализ в одном сжатом курсе — от уравнений до интегралов, с задачами."
 created: 2026-11-17

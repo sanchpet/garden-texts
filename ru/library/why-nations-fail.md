@@ -10,6 +10,9 @@ category: экономика
 status: later
 plan: досуг
 queue:
+want:
+demand: false
+chunks: false
 cover: "[[acemoglu-why-nations-fail.jpg]]"
 description: "Почему одни страны богаты, а другие бедны — объяснение через политические и экономические институты, а не географию и культуру."
 created: 2026-11-17

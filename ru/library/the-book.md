@@ -10,6 +10,9 @@ category: наука и техника
 status: later
 plan: досуг
 queue:
+want:
+demand: false
+chunks: true
 cover: "[[hungry-minds-the-book.jpg]]"
 description: "Иллюстрированный свод знаний, нужных, чтобы восстановить цивилизацию с нуля, — от огня и земледелия до электричества."
 created: 2026-11-17

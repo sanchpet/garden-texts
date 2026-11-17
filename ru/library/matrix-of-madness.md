@@ -10,6 +10,9 @@ category: философия
 status: later
 plan: досуг
 queue:
+want:
+demand: false
+chunks: true
 cover: "[[jung-foucault-matrix-of-madness.jpg]]"
 description: "Сборник работ Юнга и Фуко о безумии — причины и символика душевной болезни у первого, история сумасшествия в западном обществе у второго."
 created: 2026-11-17

@@ -13,7 +13,7 @@ queue:
 want:
 demand: false
 chunks: false
-cover:
+cover: "[[kasparov-unlimited-challenge.jpg]]"
 description: "Автобиография тринадцатого чемпиона мира по шахматам — путь к титулу и матчи с Карповым, рассказанные им самим."
 created: 2026-11-17
 ---

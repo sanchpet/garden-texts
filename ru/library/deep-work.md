@@ -9,7 +9,7 @@ year: 2016
 category: работа и внимание
 status: later
 plan: практика
-queue:
+queue: 1
 want: 3
 demand: true
 chunks: true

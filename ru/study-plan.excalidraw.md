@@ -167,14 +167,14 @@ Outlive, затем Lifespan ^3sPs2b2w
 Нехудожественное: одна в
 работе ^sG7Aj6hO
 
-Талер дочитан · следующая
-выбирается ^6ygdPDlX
+Каспаров · затем Deep Work ^6ygdPDlX
 
 чтение ^mq314Wlr
 
 Очередь с полки ^XAfhF7Oy
 
-21 книга на руках · порядок свой ^v9IOhuwS
+20 книг · порядок по трём
+признакам ^v9IOhuwS
 
 чтение ^GiGtUchF
 
@@ -4519,7 +4519,7 @@ Outlive, затем Lifespan ^3sPs2b2w
    "id": "sG7Aj6hO",
    "type": "text",
    "x": 49.736083984375,
-   "y": 1382.8,
+   "y": 1390.9,
    "width": 202.52783203125,
    "height": 40,
    "angle": 0,
@@ -4559,9 +4559,9 @@ Outlive, затем Lifespan ^3sPs2b2w
    "id": "6ygdPDlX",
    "type": "text",
    "x": 58.934104919433594,
-   "y": 1426.8,
+   "y": 1434.9,
    "width": 184.1317901611328,
-   "height": 32.5,
+   "height": 16.25,
    "angle": 0,
    "strokeColor": "#5c5f66",
    "backgroundColor": "transparent",
@@ -4583,9 +4583,9 @@ Outlive, затем Lifespan ^3sPs2b2w
    "updated": 1794934505604,
    "link": null,
    "locked": false,
-   "text": "Талер дочитан · следующая\nвыбирается",
-   "originalText": "Талер дочитан · следующая\nвыбирается",
-   "rawText": "Талер дочитан · следующая\nвыбирается",
+   "text": "Каспаров · затем Deep Work",
+   "originalText": "Каспаров · затем Deep Work",
+   "rawText": "Каспаров · затем Deep Work",
    "fontSize": 13,
    "fontFamily": 5,
    "textAlign": "center",
@@ -4699,7 +4699,7 @@ Outlive, затем Lifespan ^3sPs2b2w
    "id": "XAfhF7Oy",
    "type": "text",
    "x": 358.92005157470703,
-   "y": 1400.9,
+   "y": 1392.8,
    "width": 128.15989685058594,
    "height": 20,
    "angle": 0,
@@ -4739,9 +4739,9 @@ Outlive, затем Lifespan ^3sPs2b2w
    "id": "v9IOhuwS",
    "type": "text",
    "x": 317.48560333251953,
-   "y": 1424.9,
+   "y": 1416.8,
    "width": 211.02879333496094,
-   "height": 16.25,
+   "height": 32.5,
    "angle": 0,
    "strokeColor": "#5c5f66",
    "backgroundColor": "transparent",
@@ -4763,9 +4763,9 @@ Outlive, затем Lifespan ^3sPs2b2w
    "updated": 1794934505604,
    "link": null,
    "locked": false,
-   "text": "21 книга на руках · порядок свой",
-   "originalText": "21 книга на руках · порядок свой",
-   "rawText": "21 книга на руках · порядок свой",
+   "text": "20 книг · порядок по трём\nпризнакам",
+   "originalText": "20 книг · порядок по трём\nпризнакам",
+   "rawText": "20 книг · порядок по трём\nпризнакам",
    "fontSize": 13,
    "fontFamily": 5,
    "textAlign": "center",

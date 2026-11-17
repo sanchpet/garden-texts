@@ -3,7 +3,7 @@ type: book
 id: R-039
 short: Protocols
 aliases:
-  - "Protocols"
+  - Protocols
 author: Эндрю Хуберман
 year: 2025
 category: тело и здоровье
@@ -14,7 +14,7 @@ want: 3
 demand: true
 chunks: true
 cover: "[[huberman-protocols.jpg]]"
-description: "Руководство нейробиолога по телу — протоколы сна, внимания, движения и восстановления, выведенные из лабораторных данных."
+description: Руководство нейробиолога по телу — протоколы сна, внимания, движения и восстановления, выведенные из лабораторных данных.
 created: 2026-11-17
 ---
 

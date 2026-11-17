@@ -164,16 +164,15 @@ Outlive, затем Lifespan ^3sPs2b2w
 
 Досуг и личные исследования — чтение из любопытства, свои вопросы ^8APAHgh4
 
-Нехудожественное: одна в
-работе ^sG7Aj6hO
+Нехудожественное: в работе ^sG7Aj6hO
 
-Каспаров · затем Deep Work ^6ygdPDlX
+Каспаров · Deep Work ^6ygdPDlX
 
 чтение ^mq314Wlr
 
 Очередь с полки ^XAfhF7Oy
 
-20 книг · порядок по трём
+19 книг · порядок по трём
 признакам ^v9IOhuwS
 
 чтение ^GiGtUchF
@@ -4519,9 +4518,9 @@ Outlive, затем Lifespan ^3sPs2b2w
    "id": "sG7Aj6hO",
    "type": "text",
    "x": 49.736083984375,
-   "y": 1390.9,
+   "y": 1400.9,
    "width": 202.52783203125,
-   "height": 40,
+   "height": 20,
    "angle": 0,
    "strokeColor": "#1e1e1e",
    "backgroundColor": "transparent",
@@ -4543,9 +4542,9 @@ Outlive, затем Lifespan ^3sPs2b2w
    "updated": 1794934505604,
    "link": null,
    "locked": false,
-   "text": "Нехудожественное: одна в\nработе",
-   "originalText": "Нехудожественное: одна в\nработе",
-   "rawText": "Нехудожественное: одна в\nработе",
+   "text": "Нехудожественное: в работе",
+   "originalText": "Нехудожественное: в работе",
+   "rawText": "Нехудожественное: в работе",
    "fontSize": 16,
    "fontFamily": 5,
    "textAlign": "center",
@@ -4559,7 +4558,7 @@ Outlive, затем Lifespan ^3sPs2b2w
    "id": "6ygdPDlX",
    "type": "text",
    "x": 58.934104919433594,
-   "y": 1434.9,
+   "y": 1424.9,
    "width": 184.1317901611328,
    "height": 16.25,
    "angle": 0,
@@ -4583,9 +4582,9 @@ Outlive, затем Lifespan ^3sPs2b2w
    "updated": 1794934505604,
    "link": null,
    "locked": false,
-   "text": "Каспаров · затем Deep Work",
-   "originalText": "Каспаров · затем Deep Work",
-   "rawText": "Каспаров · затем Deep Work",
+   "text": "Каспаров · Deep Work",
+   "originalText": "Каспаров · Deep Work",
+   "rawText": "Каспаров · Deep Work",
    "fontSize": 13,
    "fontFamily": 5,
    "textAlign": "center",
@@ -4763,9 +4762,9 @@ Outlive, затем Lifespan ^3sPs2b2w
    "updated": 1794934505604,
    "link": null,
    "locked": false,
-   "text": "20 книг · порядок по трём\nпризнакам",
-   "originalText": "20 книг · порядок по трём\nпризнакам",
-   "rawText": "20 книг · порядок по трём\nпризнакам",
+   "text": "19 книг · порядок по трём\nпризнакам",
+   "originalText": "19 книг · порядок по трём\nпризнакам",
+   "rawText": "19 книг · порядок по трём\nпризнакам",
    "fontSize": 13,
    "fontFamily": 5,
    "textAlign": "center",

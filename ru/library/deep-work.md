@@ -7,9 +7,9 @@ aliases:
 author: Кэл Ньюпорт
 year: 2016
 category: работа и внимание
-status: later
+status: in-progress
 plan: практика
-queue: 1
+queue:
 want: 3
 demand: true
 chunks: true

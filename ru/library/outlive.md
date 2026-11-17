@@ -3,7 +3,7 @@ type: book
 id: R-048
 short: Outlive
 aliases:
-  - "Outlive"
+  - Outlive
 author: Питер Аттиа, Билл Гиффорд
 year: 2023
 category: тело и здоровье
@@ -14,7 +14,7 @@ want: 2
 demand: true
 chunks: false
 cover: "[[attia-outlive.jpg]]"
-description: "Долголетие как инженерная задача — четыре главные болезни старения и что делать с ними за десятилетия до диагноза."
+description: Долголетие как инженерная задача — четыре главные болезни старения и что делать с ними за десятилетия до диагноза.
 created: 2026-11-17
 ---
 

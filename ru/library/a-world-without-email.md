@@ -3,7 +3,7 @@ type: book
 id: R-038
 short: World Without Email
 aliases:
-  - "A World Without Email"
+  - A World Without Email
 author: Кэл Ньюпорт
 year: 2021
 category: работа и внимание

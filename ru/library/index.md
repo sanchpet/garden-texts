@@ -19,6 +19,10 @@ properties:
     displayName: Статус
   category:
     displayName: Раздел
+  plan:
+    displayName: Зачем
+  queue:
+    displayName: Очередь
 views:
   - type: bookcase
     name: Шкаф
@@ -44,7 +48,11 @@ views:
       - year
       - category
       - status
+      - plan
+      - queue
     sort:
       - property: status
+        direction: ASC
+      - property: queue
         direction: ASC
 ```

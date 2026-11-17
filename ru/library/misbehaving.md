@@ -7,7 +7,7 @@ aliases:
 author: Ричард Талер
 year: 2015
 category: экономика
-status: in-progress
+status: done
 plan: досуг
 cover: "[[thaler-misbehaving.jpg]]"
 description: Как складывалась поведенческая экономика — история спора с моделью рационального агента, рассказанная одним из её основателей.

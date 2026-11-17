@@ -164,9 +164,10 @@ Outlive, затем Lifespan ^3sPs2b2w
 
 Досуг и личные исследования — чтение из любопытства, свои вопросы ^8APAHgh4
 
-Нехудожественное: в работе ^sG7Aj6hO
+В работе: одна под дело,
+одна для досуга ^sG7Aj6hO
 
-Каспаров · Deep Work ^6ygdPDlX
+Deep Work · Каспаров ^6ygdPDlX
 
 чтение ^mq314Wlr
 
@@ -4518,9 +4519,9 @@ Outlive, затем Lifespan ^3sPs2b2w
    "id": "sG7Aj6hO",
    "type": "text",
    "x": 49.736083984375,
-   "y": 1400.9,
+   "y": 1390.9,
    "width": 202.52783203125,
-   "height": 20,
+   "height": 40,
    "angle": 0,
    "strokeColor": "#1e1e1e",
    "backgroundColor": "transparent",
@@ -4542,9 +4543,9 @@ Outlive, затем Lifespan ^3sPs2b2w
    "updated": 1794934505604,
    "link": null,
    "locked": false,
-   "text": "Нехудожественное: в работе",
-   "originalText": "Нехудожественное: в работе",
-   "rawText": "Нехудожественное: в работе",
+   "text": "В работе: одна под дело,\nодна для досуга",
+   "originalText": "В работе: одна под дело,\nодна для досуга",
+   "rawText": "В работе: одна под дело,\nодна для досуга",
    "fontSize": 16,
    "fontFamily": 5,
    "textAlign": "center",
@@ -4558,7 +4559,7 @@ Outlive, затем Lifespan ^3sPs2b2w
    "id": "6ygdPDlX",
    "type": "text",
    "x": 58.934104919433594,
-   "y": 1424.9,
+   "y": 1434.9,
    "width": 184.1317901611328,
    "height": 16.25,
    "angle": 0,
@@ -4582,9 +4583,9 @@ Outlive, затем Lifespan ^3sPs2b2w
    "updated": 1794934505604,
    "link": null,
    "locked": false,
-   "text": "Каспаров · Deep Work",
-   "originalText": "Каспаров · Deep Work",
-   "rawText": "Каспаров · Deep Work",
+   "text": "Deep Work · Каспаров",
+   "originalText": "Deep Work · Каспаров",
+   "rawText": "Deep Work · Каспаров",
    "fontSize": 13,
    "fontFamily": 5,
    "textAlign": "center",

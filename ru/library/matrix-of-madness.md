@@ -10,7 +10,7 @@ category: философия
 status: later
 plan: досуг
 queue:
-want:
+want: 1
 demand: false
 chunks: true
 cover: "[[jung-foucault-matrix-of-madness.jpg]]"

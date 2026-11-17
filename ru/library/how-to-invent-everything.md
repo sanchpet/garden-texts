@@ -10,7 +10,7 @@ category: наука и техника
 status: later
 plan: досуг
 queue:
-want:
+want: 2
 demand: false
 chunks: true
 cover: "[[north-how-to-invent-everything.jpg]]"

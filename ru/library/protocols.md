@@ -10,7 +10,7 @@ category: тело и здоровье
 status: later
 plan: практика
 queue:
-want:
+want: 3
 demand: true
 chunks: true
 cover: "[[huberman-protocols.jpg]]"

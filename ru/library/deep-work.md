@@ -10,7 +10,7 @@ category: работа и внимание
 status: later
 plan: практика
 queue:
-want:
+want: 3
 demand: true
 chunks: true
 cover: "[[newport-deep-work.jpg]]"

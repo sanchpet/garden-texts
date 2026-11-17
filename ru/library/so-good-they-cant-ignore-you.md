@@ -10,7 +10,7 @@ category: работа и внимание
 status: later
 plan: досуг
 queue:
-want:
+want: 3
 demand: false
 chunks: true
 cover: "[[newport-so-good-they-cant-ignore-you.jpg]]"

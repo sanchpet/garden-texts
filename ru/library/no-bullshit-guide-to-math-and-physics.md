@@ -10,7 +10,7 @@ category: математика и физика
 status: later
 plan: ступень
 queue:
-want:
+want: 1
 demand: false
 chunks: true
 cover: "[[savov-no-bullshit-math-physics.jpg]]"

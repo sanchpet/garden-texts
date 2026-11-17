@@ -10,7 +10,7 @@ category: наука и техника
 status: later
 plan: досуг
 queue:
-want:
+want: 1
 demand: false
 chunks: true
 cover: "[[hungry-minds-the-book.jpg]]"

@@ -10,7 +10,7 @@ category: экономика
 status: later
 plan: досуг
 queue:
-want:
+want: 1
 demand: false
 chunks: false
 cover: "[[braw-goodbye-globalization.jpg]]"

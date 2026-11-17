@@ -10,7 +10,7 @@ category: работа и внимание
 status: later
 plan: практика
 queue:
-want:
+want: 3
 demand: false
 chunks: true
 cover: "[[newport-a-world-without-email.jpg]]"

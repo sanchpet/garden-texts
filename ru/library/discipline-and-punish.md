@@ -10,7 +10,7 @@ category: философия
 status: later
 plan: досуг
 queue:
-want:
+want: 2
 demand: false
 chunks: false
 cover: "[[foucault-discipline-and-punish.jpg]]"

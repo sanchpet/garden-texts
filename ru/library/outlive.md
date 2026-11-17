@@ -10,7 +10,7 @@ category: тело и здоровье
 status: later
 plan: ступень
 queue:
-want:
+want: 2
 demand: true
 chunks: false
 cover: "[[attia-outlive.jpg]]"

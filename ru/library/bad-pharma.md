@@ -10,7 +10,7 @@ category: тело и здоровье
 status: later
 plan: досуг
 queue:
-want:
+want: 1
 demand: false
 chunks: false
 cover: "[[goldacre-bad-pharma.jpg]]"

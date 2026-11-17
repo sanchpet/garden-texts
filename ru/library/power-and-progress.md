@@ -10,7 +10,7 @@ category: экономика
 status: later
 plan: досуг
 queue:
-want:
+want: 2
 demand: false
 chunks: false
 cover: "[[acemoglu-power-and-progress.jpg]]"

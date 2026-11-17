@@ -10,7 +10,7 @@ category: работа и внимание
 status: later
 plan: практика
 queue:
-want:
+want: 3
 demand: false
 chunks: true
 cover: "[[newport-slow-productivity.jpg]]"

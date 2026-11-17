@@ -1,0 +1,56 @@
+filters:
+  and:
+    - type == "book"
+    - file.inFolder("50-garden/ru/library")
+properties:
+  file.name:
+    displayName: Книга
+  author:
+    displayName: Автор
+  year:
+    displayName: Год
+  category:
+    displayName: Раздел
+  status:
+    displayName: Статус
+  plan:
+    displayName: Зачем
+  queue:
+    displayName: Очередь
+views:
+  - type: table
+    name: Список
+    order:
+      - file.name
+      - author
+      - year
+      - category
+      - status
+      - plan
+      - queue
+    sort:
+      - property: status
+        direction: ASC
+      - property: queue
+        direction: ASC
+  - type: table
+    name: Очередь
+    filters:
+      and:
+        - status != "done"
+    order:
+      - queue
+      - file.name
+      - author
+      - plan
+      - status
+    sort:
+      - property: queue
+        direction: ASC
+  - type: cards
+    name: Обложки
+    order:
+      - file.name
+      - author
+      - status
+    image: note.cover

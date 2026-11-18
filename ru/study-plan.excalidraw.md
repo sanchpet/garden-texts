@@ -191,6 +191,19 @@ Deep Work · Каспаров ^6ygdPDlX
 
 чтение ^ZFMtHL3k
 
+## Element Links
+astqekj2: [[kleppmann-distributed-systems]]
+
+zHtg5UYX: [[outlive]]
+
+w8HgPJ8Z: [[no-bullshit-guide-to-math-and-physics]]
+
+iUIya7nY: [[deep-work]]
+
+xRMn94Go: [[50-garden/ru/library/index|Библиотека]]
+
+YibQsU7U: [[discipline-and-punish]]
+
 %%
 ## Drawing
 ```json
@@ -1036,7 +1049,7 @@ Deep Work · Каспаров ^6ygdPDlX
    "isDeleted": false,
    "boundElements": [],
    "updated": 1794930631577,
-   "link": null,
+   "link": "[[kleppmann-distributed-systems]]",
    "locked": false,
    "index": "aK"
   },
@@ -3234,7 +3247,7 @@ Deep Work · Каспаров ^6ygdPDlX
    "isDeleted": false,
    "boundElements": [],
    "updated": 1794930631577,
-   "link": null,
+   "link": "[[outlive]]",
    "locked": false,
    "index": "b0J"
   },
@@ -3895,7 +3908,7 @@ Deep Work · Каспаров ^6ygdPDlX
    "isDeleted": false,
    "boundElements": [],
    "updated": 1794930631577,
-   "link": null,
+   "link": "[[no-bullshit-guide-to-math-and-physics]]",
    "locked": false,
    "index": "b0b"
   },
@@ -4511,7 +4524,7 @@ Deep Work · Каспаров ^6ygdPDlX
    "isDeleted": false,
    "boundElements": [],
    "updated": 1794934505604,
-   "link": null,
+   "link": "[[deep-work]]",
    "locked": false,
    "index": "b0s"
   },
@@ -4691,7 +4704,7 @@ Deep Work · Каспаров ^6ygdPDlX
    "isDeleted": false,
    "boundElements": [],
    "updated": 1794934505604,
-   "link": null,
+   "link": "[[50-garden/ru/library/index|Библиотека]]",
    "locked": false,
    "index": "b0x"
   },
@@ -4871,7 +4884,7 @@ Deep Work · Каспаров ^6ygdPDlX
    "isDeleted": false,
    "boundElements": [],
    "updated": 1794934505604,
-   "link": null,
+   "link": "[[discipline-and-punish]]",
    "locked": false,
    "index": "b12"
   },

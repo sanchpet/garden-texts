@@ -3,7 +3,6 @@ aliases:
   - Курсы
 description: Курсы, которые я прохожу, прошёл и собираюсь пройти.
 created: 2026-11-18
-draft: true
 ---
 
 ```base

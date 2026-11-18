@@ -3,7 +3,6 @@ aliases:
   - Courses
 description: Courses I am taking, have taken and mean to take.
 created: 2026-11-18
-draft: true
 ---
 
 ```base

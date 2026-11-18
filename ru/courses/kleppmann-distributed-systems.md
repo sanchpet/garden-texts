@@ -12,7 +12,6 @@ status: in-progress
 url: https://www.cl.cam.ac.uk/teaching/2526/ConcDisSys/materials.html
 description: Лекции Мартина Клеппмана о распределённых системах — от двух генералов и логического времени до консенсуса и CRDT.
 created: 2026-11-18
-draft: true
 ---
 
 ## О курсе

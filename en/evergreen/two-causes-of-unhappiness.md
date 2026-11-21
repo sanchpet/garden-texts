@@ -27,3 +27,7 @@ Life has plenty of examples. We want to do something selfish, but we also want o
 The first step is to find the two conflicting wishes and admit they exist. Once the contradiction comes out into the open, the discomfort already eases. The second step is to decide and choose just one. Or to tell yourself "I'll decide later" — that works too. It won't remove the discomfort completely, but it puts us into agent mode: we have found the dissatisfaction and can make hypotheses about how to resolve it.
 
 Unhappiness and discomfort add up from many small unresolved problems, breaches through which mental energy leaks away. If there is stress but no clarity about where it comes from, make yourself stop-moments and think about the possible causes. After that, only work helps: learn, think, act.
+
+```dataviewjs
+await dv.view("20-library/pipeline/views/text-sources");
+```

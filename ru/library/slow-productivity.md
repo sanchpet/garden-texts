@@ -39,3 +39,9 @@ WHERE type = "learn-note"
 GROUP BY link(file.link, regexreplace(file.aliases[0], " \([^()]*\)$", "")) AS "Заметка"
 SORT rows.file.ctime ASC
 ```
+
+## Тексты по источнику
+
+```dataviewjs
+await dv.view("20-library/pipeline/views/text-sources", { mode: "texts" });
+```

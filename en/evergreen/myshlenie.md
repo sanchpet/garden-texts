@@ -130,3 +130,7 @@ What I would pay attention to when putting together my own answer to this questi
 I also decided to leave these questions here so that I can come back to them when I reread this text and think about them, adding to this note through thinking in writing.
 
 [^1]: [How to make thinking in writing more effective](https://www.youtube.com/watch?v=MnCV3sOkVVw) (in Russian)
+
+```dataviewjs
+await dv.view("20-library/pipeline/views/text-sources");
+```

@@ -132,3 +132,7 @@ cover: "[[thompson-big-sur.jpg]]"
 Я также решил оставить эти вопросы здесь, чтобы возвращаться к ним при перечитывании этого текста и размышлять об этом, дополняя эту заметку посредством мышления письмом.
 
 [^1]: [Как сделать мышление письмом эффективнее](https://www.youtube.com/watch?v=MnCV3sOkVVw)
+
+```dataviewjs
+await dv.view("20-library/pipeline/views/text-sources");
+```

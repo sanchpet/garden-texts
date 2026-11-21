@@ -18,6 +18,10 @@ description: "Как мир, сшитый торговлей после холо
 created: 2026-11-17
 ---
 
+```dataviewjs
+await dv.view("20-library/pipeline/views/card-status");
+```
+
 ## Краткие итоги чтения
 
 ## Учебные заметки

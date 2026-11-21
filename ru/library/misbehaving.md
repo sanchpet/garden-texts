@@ -18,6 +18,10 @@ description: Как складывалась поведенческая экон
 created: 2026-11-13
 ---
 
+```dataviewjs
+await dv.view("20-library/pipeline/views/card-status");
+```
+
 ## Краткие итоги чтения
 
 ## Учебные заметки

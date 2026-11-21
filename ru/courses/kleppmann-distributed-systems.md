@@ -14,6 +14,10 @@ description: Лекции Мартина Клеппмана о распреде�
 created: 2026-11-18
 ---
 
+```dataviewjs
+await dv.view("20-library/pipeline/views/card-status");
+```
+
 ## О курсе
 
 Martin Kleppmann, *Distributed Systems* — лекции 9–16 курса Concurrent and Distributed Systems, Cambridge Computer Science Tripos Part IB, редакция 2025/26. Заметки на 93 страницы: слайд и текст под ним.

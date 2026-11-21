@@ -9,3 +9,7 @@ repo: https://github.com/k3s-io/k3s
 description: Дистрибутив Kubernetes одним бинарником — сервер, агент и встроенные аддоны.
 created: 2026-11-14
 ---
+
+```dataviewjs
+await dv.view("20-library/pipeline/views/card-status");
+```

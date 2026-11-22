@@ -17,7 +17,7 @@ revision: 1
 
 ```meta-bind-button
 label: Опубликовать
-tooltip: "Команда «Опубликовать заметку»: даты, снятие draft, пуш сада; на сайте кнопка не видна"
+tooltip: "Команда «Опубликовать заметку»: даты, снятие draft, пуш сайта; на сайте кнопка не видна"
 style: primary
 actions:
   - type: command

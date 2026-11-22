@@ -11,3 +11,7 @@ I'm Aleksandr. Online I'm better known as *sanchpet*. If you want to write to me
 To understand a person better, watch what they give their attention to. In the broadest sense, I am learning to [[myshlenie|think]]. Professionally, I'm into [[ru/study-plan|studying distributed systems]] and engineering in *kubernetes*.
 
 I also practise *slow reading*, and as part of that practice I love collecting [[en/library/index|books]].
+
+---
+
+[[en/stream|stream]]

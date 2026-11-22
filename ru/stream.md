@@ -1,5 +1,5 @@
 ---
 type: stream
-aliases: ["Стрим"]
-description: Всё, что происходит в саду, по дням.
+aliases: ["Поток"]
+description: Лента всех событий сайта
 ---

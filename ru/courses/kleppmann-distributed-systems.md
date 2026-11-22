@@ -26,6 +26,12 @@ Martin Kleppmann, *Distributed Systems* — лекции 9–16 курса Concu
 
 Бесплатный, теоретический; вход — инженерный опыт и операционные системы, математики почти нет. Записи лекций 2025/26 лежат в Moodle университета; публичен только [плейлист 2021/22](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB), а с тех пор главы перекроены — сверять видео с текстом по названию раздела, не по номеру.
 
+## Тексты по источнику
+
+```dataviewjs
+await dv.view("20-library/pipeline/views/text-sources", { mode: "texts" });
+```
+
 ## Программа
 
 | Гл. | Тема | С. | Вопрос до чтения |
@@ -67,10 +73,4 @@ SORT rows.file.ctime ASC
 
 ```dataviewjs
 await dv.view("20-library/pipeline/views/drafts-panel", { mode: "source" });
-```
-
-## Тексты по источнику
-
-```dataviewjs
-await dv.view("20-library/pipeline/views/text-sources", { mode: "texts" });
 ```

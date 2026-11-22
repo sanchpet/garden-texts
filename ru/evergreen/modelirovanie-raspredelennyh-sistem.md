@@ -4,7 +4,6 @@ aliases:
   - Моделирование распределённых систем
 domain: engineering
 channels:
-  - sanchpethub
 announce:
 drafts: []
 sources:
@@ -12,6 +11,7 @@ sources:
 created: 2026-11-22
 revised: 2026-11-22
 revision: 1
+description: Из чего строится модель распределённой системы
 ---
 
 ```meta-bind-button

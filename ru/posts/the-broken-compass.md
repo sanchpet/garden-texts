@@ -1,5 +1,7 @@
 ---
 type: post
+timed: true
+practice: P-003
 aliases: ["Сломанный компас"]
 domain: thinking
 channels: [sanchpetblog]

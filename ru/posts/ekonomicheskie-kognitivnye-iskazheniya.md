@@ -11,7 +11,6 @@ drafts: []
 sources:
   - "[[misbehaving|Misbehaving]]"
 created: 2026-11-22
-draft: true
 timeEntries:
   - startTime: 2026-11-23T13:59:08.404Z
     description: Work session
@@ -23,9 +22,8 @@ timeEntries:
     description: Work session
     endTime: 2026-11-23T20:18:17.002+04:00
 dateModified: 2026-11-23T20:18:17.201+04:00
+published: 2026-11-23
 ---
-
-# Экономические когнитивные искажения
 
 ```meta-bind-button
 label: Опубликовать

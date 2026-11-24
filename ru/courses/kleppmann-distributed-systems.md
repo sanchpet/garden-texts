@@ -1,5 +1,8 @@
 ---
 type: course
+timed: true
+practice: P-002
+invested: true
 id: R-033
 short: Distributed Systems
 aliases:
@@ -10,12 +13,30 @@ year: 2025
 category: распределённые системы
 status: in-progress
 url: https://www.cl.cam.ac.uk/teaching/2526/ConcDisSys/materials.html
+sections:
+  - Introduction
+  - Models of distributed systems
+  - Time, clocks, and ordering of events
+  - Broadcast
+  - Replication
+  - Replica consistency
+  - Consensus and total order broadcast
+  - Eventual consistency
 description: Лекции Мартина Клеппмана о распределённых системах — от двух генералов и логического времени до консенсуса и CRDT.
 created: 2026-11-18
+timeEntries:
+  - startTime: 2026-11-24T06:43:07.442Z
+    description: Work session
+    endTime: 2026-11-24T11:28:07.399+04:00
+dateModified: 2026-11-24T11:28:07.599+04:00
 ---
 
 ```dataviewjs
 await dv.view("20-library/pipeline/views/card-status");
+```
+
+```dataviewjs
+await dv.view("20-library/pipeline/views/course-sections");
 ```
 
 ## О курсе

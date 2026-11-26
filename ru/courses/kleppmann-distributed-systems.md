@@ -40,7 +40,10 @@ timeEntries:
   - startTime: 2026-11-26T07:19:00.908Z
     description: Work session
     endTime: 2026-11-26T08:02:39.192Z
-dateModified: 2026-11-26T12:02:39.192+04:00
+  - startTime: 2026-11-26T08:28:12.272Z
+    description: Work session
+    endTime: 2026-11-26T08:28:15.033Z
+dateModified: 2026-11-26T12:28:15.033+04:00
 ---
 
 ```dataviewjs

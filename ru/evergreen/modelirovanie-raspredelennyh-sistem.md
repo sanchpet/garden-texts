@@ -9,6 +9,7 @@ drafts: []
 sources:
   - "[[kleppmann-distributed-systems|Распределённые системы]]"
 created: 2026-11-22
+published: 2026-11-22
 revised: 2026-11-22
 revision: 1
 description: Из чего строится модель распределённой системы

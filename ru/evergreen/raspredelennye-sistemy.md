@@ -10,6 +10,7 @@ drafts:
 sources:
   - "[[kleppmann-distributed-systems|Распределённые системы]]"
 created: 2026-11-21
+published: 2026-11-21
 description: Небольшое введение в теорию распределенных систем
 revised: 2026-11-21
 revision: 1

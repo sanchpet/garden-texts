@@ -4,6 +4,7 @@ aliases:
   - Thinking
 domain: thinking
 created: 2026-10-26
+published: 2026-11-02
 revised: 2026-11-02
 revision: 2
 tags:

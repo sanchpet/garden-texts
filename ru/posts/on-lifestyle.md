@@ -5,6 +5,7 @@ domain: thinking
 channels: [sanchpetblog]
 published: 2026-04-14
 link: https://t.me/sanchpetblog/352
+cover: "[[on-lifestyle-cover.jpg]]"
 ---
 
 > Если я могу проснуться в другом месте и в другое время, чем те место и время, в которых я заснул, почему бы однажды мне не проснуться другим человеком?

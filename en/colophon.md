@@ -24,7 +24,7 @@ The [texts](https://github.com/sanchpet/garden-texts) are licensed under [CC BY 
 - Text and headings: [Literata](https://github.com/googlefonts/literata)
 - Block labels and lettering on drawings: [Caveat](https://github.com/googlefonts/caveat)
 - Quotations and margin notes: [Neucha](https://fonts.google.com/specimen/Neucha)
-- Code: [IBM Plex Mono](https://github.com/IBM/plex).
+- Code: [IBM Plex Mono](https://github.com/IBM/plex)
 
 The fonts are built into the site, see [Fontsource](https://github.com/fontsource/fontsource).
 

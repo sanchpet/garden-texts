@@ -21,7 +21,7 @@ description: В книгоиздании колофон содержит вып�
 - Текст и заголовки: [Literata](https://github.com/googlefonts/literata)
 - Подписи блоков и на рисунках: [Caveat](https://github.com/googlefonts/caveat)
 - Цитаты и пометки на полях: [Neucha](https://fonts.google.com/specimen/Neucha)
-- Код: [IBM Plex Mono](https://github.com/IBM/plex).
+- Код: [IBM Plex Mono](https://github.com/IBM/plex)
 
 Шрифты встроены в сайт, см. [Fontsource](https://github.com/fontsource/fontsource).
 

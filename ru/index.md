@@ -14,4 +14,4 @@ language_note: Сайт двуязычный. Я размышляю и пишу 
 
 ---
 
-[[ru/stream|поток]]
+[[ru/stream|поток]] [[ru/colophon|колофон]]

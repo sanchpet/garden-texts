@@ -14,4 +14,4 @@ I also practise *slow reading*, and as part of that practice I love collecting [
 
 ---
 
-[[en/stream|stream]]
+[[en/stream|stream]] [[en/colophon|colophon]]

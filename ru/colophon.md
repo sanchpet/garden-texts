@@ -18,7 +18,7 @@ description: "Как сделан этот сайт: шрифты, цвет, р�
 3. Цитаты написаны [Neucha](https://fonts.google.com/specimen/Neucha), её нарисовал Jovanny Lemonad. Цитатами я оставляю себе пометки на полях, иногда на несколько абзацев, а Caveat на такой длине читать тяжело. У Neucha буквы стоят раздельно.
 4. Код набран [IBM Plex Mono](https://github.com/IBM/plex).
 
-Все шрифты сайт отдаёт сам, без Google Fonts: страница читается, даже если чужой сервер лежит.
+Все шрифты сайт отдаёт сам, без Google Fonts: страница читается, даже если чужой сервер лежит. Literata и IBM Plex Mono приходят из пакетов [Fontsource](https://github.com/fontsource/fontsource).
 
 ## Цвет
 
@@ -34,7 +34,7 @@ description: "Как сделан этот сайт: шрифты, цвет, р�
 
 ## Движок
 
-Сайт собирает [Quartz](https://quartz.jzhao.xyz) v5. Это мой форк со своей историей. Всё своё (языки, шапка заметки, шкаф, радар, старты, серии, ленты) лежит отдельными плагинами, из апстрима беру патчами только то, что нужно. Код открыт: [sanchpet/garden](https://github.com/sanchpet/garden), тексты тоже: [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts). Что умеет вёрстка, видно на странице [[ru/specimen|Образец вёрстки]] (держу её в основном для себя, чтобы подсматривать, когда пишу).
+Сайт собирает [Quartz](https://quartz.jzhao.xyz) v5. Это мой форк со своей историей. Всё своё (языки, шапка заметки, шкаф, радар, старты, серии, ленты) лежит отдельными плагинами, из апстрима беру патчами только то, что нужно. Код открыт: [sanchpet/garden](https://github.com/sanchpet/garden), тексты тоже: [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts). Что умеет вёрстка, видно на странице [[ru/specimen|Образец вёрстки]] (держу её в основном для себя, чтобы подсматривать, когда пишу). Формулы рисует [KaTeX](https://github.com/KaTeX/KaTeX), диаграммы [Mermaid](https://github.com/mermaid-js/mermaid), а схемы вроде плана учёбы нарисованы в [Excalidraw](https://github.com/excalidraw/excalidraw) и встроены как SVG.
 
 ## Как текст выходит
 
@@ -42,7 +42,7 @@ description: "Как сделан этот сайт: шрифты, цвет, р�
 
 ## Чего здесь нет
 
-Рекламы, чужих скриптов и cookies. Просмотры считает [GoatCounter](https://www.goatcounter.com) на моём сервере, тоже без cookies. Сколько раз открывали статью, видно внизу под ней.
+Рекламы, чужих скриптов и cookies. Просмотры считает [GoatCounter](https://github.com/arp242/goatcounter) на моём сервере, тоже без cookies. Сколько раз открывали статью, видно внизу под ней.
 
 ## Лицензия
 

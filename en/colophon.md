@@ -18,7 +18,7 @@ The site is meant as an engineer's workbook. Text is printed in a calm column, a
 3. Quotations are written in [Neucha](https://fonts.google.com/specimen/Neucha), drawn by Jovanny Lemonad. With quotations I leave notes to myself in the margin, sometimes a few paragraphs long, and Caveat is hard to read at that length. Neucha keeps its letters apart.
 4. Code is set in [IBM Plex Mono](https://github.com/IBM/plex).
 
-The site serves all its fonts itself, without Google Fonts: a page can be read even when someone else's server is down.
+The site serves all its fonts itself, without Google Fonts: a page can be read even when someone else's server is down. Literata and IBM Plex Mono come from [Fontsource](https://github.com/fontsource/fontsource) packages.
 
 ## Colour
 
@@ -34,7 +34,7 @@ If you have a mouse, the pointer becomes my pencil. It underlines a link in the 
 
 ## Engine
 
-The site is built by [Quartz](https://quartz.jzhao.xyz) v5. It's my fork with its own history. Everything of mine (languages, the note header, the bookcase, radar, races, series, feeds) lives in separate plugins, and from upstream I take as patches only what I need. The code is open: [sanchpet/garden](https://github.com/sanchpet/garden), and so are the texts: [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts). What the typesetting can do is shown on the [[ru/specimen|specimen page]] (in Russian; I keep it mostly for myself, to peek at while writing).
+The site is built by [Quartz](https://quartz.jzhao.xyz) v5. It's my fork with its own history. Everything of mine (languages, the note header, the bookcase, radar, races, series, feeds) lives in separate plugins, and from upstream I take as patches only what I need. The code is open: [sanchpet/garden](https://github.com/sanchpet/garden), and so are the texts: [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts). What the typesetting can do is shown on the [[ru/specimen|specimen page]] (in Russian; I keep it mostly for myself, to peek at while writing). Formulas are rendered by [KaTeX](https://github.com/KaTeX/KaTeX), diagrams by [Mermaid](https://github.com/mermaid-js/mermaid), and drawings like the study plan are made in [Excalidraw](https://github.com/excalidraw/excalidraw) and embedded as SVG.
 
 ## How a text comes out
 
@@ -42,7 +42,7 @@ I write in Obsidian, the garden is just a folder in my notes vault. I publish wi
 
 ## What isn't here
 
-Ads, third-party scripts and cookies. Views are counted by [GoatCounter](https://www.goatcounter.com) on my own server, also without cookies. How many times a text was opened is shown under it.
+Ads, third-party scripts and cookies. Views are counted by [GoatCounter](https://github.com/arp242/goatcounter) on my own server, also without cookies. How many times a text was opened is shown under it.
 
 ## Licence
 

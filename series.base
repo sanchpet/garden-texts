@@ -1,0 +1,42 @@
+filters:
+  and:
+    - file.inFolder("50-garden")
+    - file.hasProperty("series")
+properties:
+  file.name:
+    displayName: Текст
+  note.series:
+    displayName: Серия
+  note.published:
+    displayName: Вышел
+  note.draft:
+    displayName: Черновик
+views:
+  - type: table
+    name: На сайте
+    filters:
+      and:
+        - draft != true
+    groupBy:
+      property: note.series
+      direction: ASC
+    order:
+      - file.name
+      - aliases
+      - published
+    sort:
+      - property: note.published
+        direction: ASC
+  - type: table
+    name: Все, с черновиками
+    groupBy:
+      property: note.series
+      direction: ASC
+    order:
+      - file.name
+      - aliases
+      - published
+      - draft
+    sort:
+      - property: note.published
+        direction: ASC

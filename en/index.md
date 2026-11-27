@@ -8,10 +8,10 @@ language_note: The site is bilingual. I think and write in Russian, but that may
 
 I'm Aleksandr. Online I'm better known as *sanchpet*. If you want to write to me, [email](mailto:petrov@sanch.pet) works best.
 
-To understand a person better, watch what they give their attention to. In the broadest sense, I am learning to [[myshlenie|think]]. Professionally, I'm into [[ru/study-plan|studying distributed systems]] and engineering in *kubernetes*.
+To understand a person better, watch what they give their attention to. In the broadest sense, I am learning to [[myshlenie|think]]. Professionally, I'm into [[50-garden/ru/study-plan|studying distributed systems]] and engineering in *kubernetes*.
 
-I also practise *slow reading*, and as part of that practice I love collecting [[en/library/index|books]].
+I also practise *slow reading*, and as part of that practice I love collecting [[50-garden/en/library/index|books]].
 
 ---
 
-[[en/stream|stream]] [[en/colophon|colophon]]
+[[50-garden/en/stream|stream]] [[50-garden/en/colophon|colophon]]

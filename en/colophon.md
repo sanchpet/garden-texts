@@ -34,7 +34,7 @@ If you have a mouse, the pointer becomes my pencil. It underlines a link in the 
 
 ## Engine
 
-The site is built by [Quartz](https://quartz.jzhao.xyz) v5. It's my fork with its own history. Everything of mine (languages, the note header, the bookcase, radar, races, series, feeds) lives in separate plugins, and from upstream I take as patches only what I need. The code is open: [sanchpet/garden](https://github.com/sanchpet/garden), and so are the texts: [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts). What the typesetting can do is shown on the [[ru/specimen|specimen page]] (in Russian; I keep it mostly for myself, to peek at while writing). Formulas are rendered by [KaTeX](https://github.com/KaTeX/KaTeX), diagrams by [Mermaid](https://github.com/mermaid-js/mermaid), and drawings like the study plan are made in [Excalidraw](https://github.com/excalidraw/excalidraw) and embedded as SVG.
+The site is built by [Quartz](https://quartz.jzhao.xyz) v5. It's my fork with its own history. Everything of mine (languages, the note header, the bookcase, radar, races, series, feeds) lives in separate plugins, and from upstream I take as patches only what I need. The code is open: [sanchpet/garden](https://github.com/sanchpet/garden), and so are the texts: [sanchpet/garden-texts](https://github.com/sanchpet/garden-texts). What the typesetting can do is shown on the [[50-garden/ru/specimen|specimen page]] (in Russian; I keep it mostly for myself, to peek at while writing). Formulas are rendered by [KaTeX](https://github.com/KaTeX/KaTeX), diagrams by [Mermaid](https://github.com/mermaid-js/mermaid), and drawings like the study plan are made in [Excalidraw](https://github.com/excalidraw/excalidraw) and embedded as SVG.
 
 ## How a text comes out
 

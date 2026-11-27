@@ -43,7 +43,12 @@ timeEntries:
   - startTime: 2026-11-26T08:28:12.272Z
     description: Work session
     endTime: 2026-11-26T08:28:15.033Z
-dateModified: 2026-11-26T12:28:15.033+04:00
+  - startTime: 2026-11-27T05:20:01.940Z
+    description: Work session
+    endTime: 2026-11-27T10:05:01.887+04:00
+dateModified: 2026-11-27T10:05:02.116+04:00
+tags:
+  - фокус
 ---
 
 ```dataviewjs

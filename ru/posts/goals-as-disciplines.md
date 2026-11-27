@@ -6,6 +6,7 @@ channels: [sanchpetblog]
 published: 2026-01-11
 link: https://t.me/sanchpetblog/342
 cover: "[[goals-as-disciplines-cover.jpg]]"
+series: В одиночку или вместе
 ---
 
 Ну что, друзья, поставили себе цели на 2026?

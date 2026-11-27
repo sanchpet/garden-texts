@@ -44,6 +44,10 @@ I write in Obsidian, the garden is just a folder in my notes vault. I publish wi
 
 Ads, third-party scripts and cookies. Views are counted by [GoatCounter](https://www.goatcounter.com) on my own server, also without cookies. How many times a text was opened is shown under it.
 
+## Licence
+
+The texts here are under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en): take them, adapt them, just credit me with a link, don't sell them and release adaptations under the same licence. Images and quotations by other authors belong to them. The engine's code is under [MIT](https://github.com/sanchpet/garden/blob/main/LICENSE.txt).
+
 ## Thanks
 
 To Jacky Zhao and everyone who made Quartz. To the authors of the fonts. To Aaron Pham for the cursor, and I borrowed the very idea of this page from him too.

@@ -11,4 +11,4 @@ The garage door is open: texts are visible here from their first edit, before th
 
 ## License
 
-The texts are [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): copy and adapt them non-commercially, credit the author, share adaptations alike. Images and quotations by other authors are theirs. See `LICENSE`.
+The texts are © Aleksandr Petrov under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (`LICENSE`): use them for anything, including commercially, with credit and a link to [sanch.pet](https://sanch.pet). Code samples inside the texts are [0BSD](https://spdx.org/licenses/0BSD.html) (`LICENSE-CODE`): copy them without any notice. Images and quotations by other authors belong to them and are not covered by either.

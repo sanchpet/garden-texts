@@ -46,7 +46,7 @@ Ads, third-party scripts and cookies. Views are counted by [GoatCounter](https:/
 
 ## Licence
 
-The texts here are under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en): take them, adapt them, just credit me with a link, don't sell them and release adaptations under the same licence. Images and quotations by other authors belong to them. The engine's code is under [MIT](https://github.com/sanchpet/garden/blob/main/LICENSE.txt).
+The texts here are under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en): use them however you like, commercially too, just credit me with a link. Code samples in the texts are under [0BSD](https://spdx.org/licenses/0BSD.html), copy them without any notice. Images and quotations by other authors belong to them. The engine's code is under [MIT](https://github.com/sanchpet/garden/blob/main/LICENSE.txt).
 
 ## Thanks
 

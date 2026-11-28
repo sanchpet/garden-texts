@@ -8,6 +8,7 @@ author: Ричард Талер
 year: 2015
 category: экономика
 status: done
+finished: 2026-11-22
 plan: досуг
 queue:
 want:

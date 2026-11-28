@@ -45,6 +45,10 @@ views:
         direction: ASC
   - type: table
     name: List
+    filters:
+      or:
+        - file.inFolder("en/library")
+        - "!twinned"
     order:
       - file.name
       - author

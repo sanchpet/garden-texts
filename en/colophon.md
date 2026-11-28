@@ -31,7 +31,7 @@ The fonts are built into the site, see [Fontsource](https://github.com/fontsourc
 # Design
 The dark theme imitates graphite, the light one paper. Instead of straight lines there are pencil strokes.
 
-I borrowed the idea of a custom cursor from [Aaron Pham](https://aarnphm.xyz).
+I borrowed the ideas of a custom cursor and of the contents as dashes in the margin from [Aaron Pham](https://aarnphm.xyz).
 
 # Inspiration
 

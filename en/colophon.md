@@ -33,6 +33,8 @@ The dark theme imitates graphite, the light one paper. Instead of straight lines
 
 I borrowed the ideas of a custom cursor and of the contents as dashes in the margin from [Aaron Pham](https://aarnphm.xyz).
 
+The tech radar is inspired by the [Technology Radar](https://www.thoughtworks.com/radar) by Thoughtworks.
+
 # Inspiration
 
 I started taking notes a very long time ago. I want to thank [Tseren Tserenov](https://github.com/TserenTserenov) and [Anatoly Levenchuk](https://github.com/ailev) from [MIM](https://system-school.ru/) for helping me put new meaning into the method of thinking by writing.

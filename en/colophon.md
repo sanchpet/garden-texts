@@ -16,6 +16,10 @@ The site is bilingual, so almost every page has a twin (you can see it in the UR
 
 I write texts in [Obsidian](https://obsidian.md/) and generally try to work only through it, loading it with tons of plugins. A local plugin was put together for publishing this site too.
 
+# Weight
+
+Heavy graphics like the graph load on demand, and the fonts are trimmed. Files are compressed ahead of time with [brotli](https://github.com/google/brotli) (it packs text tighter than gzip), and [Caddy](https://github.com/caddyserver/caddy) serves them, since it handles precompressed files out of the box, with no custom server build.
+
 # Licence
 
 The [texts](https://github.com/sanchpet/garden-texts) are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)[^1] (except other people's pictures and quotations; code samples are [0BSD](https://spdx.org/licenses/0BSD.html)). The engine's code is under [MIT](https://github.com/sanchpet/garden/blob/main/LICENSE.txt) (since that's Quartz's original licence).
